@@ -1,4 +1,4 @@
-# Correciones realizadas a los entregables
+# Correciones realizadas a los entregables 1, 2 y 3
 
 Este repositorio contiene las correcciones realizadas a los tres entregables que inicialmente no lograron compilar. A continuación, explico de manera detallada qué fue lo que ocurrió y cuáles fueron los cambios que hice para que el código funcionara correctamente.
 
